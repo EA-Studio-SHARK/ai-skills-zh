@@ -1,0 +1,49 @@
+{
+  "name": "ai-skills-zh",
+  "version": "0.1.0",
+  "description": "Chinese AI Agent Skills for China-specific development, content, payment, deployment, and writing workflows.",
+  "license": "MIT",
+  "repository": "https://github.com/your-username/ai-skills-zh",
+  "skills": [
+    {
+      "name": "weixin-miniprogram",
+      "path": "weixin-miniprogram/SKILL.md",
+      "description": "微信小程序开发规范：组件、API、性能、审核红线。"
+    },
+    {
+      "name": "bilibili-content",
+      "path": "bilibili-content/SKILL.md",
+      "description": "B站内容创作规范：标题、封面、脚本结构、数据复盘。"
+    },
+    {
+      "name": "wechat-article",
+      "path": "wechat-article/SKILL.md",
+      "description": "公众号文章规范：排版、配图、引流话术、SEO。"
+    },
+    {
+      "name": "china-payment",
+      "path": "china-payment/SKILL.md",
+      "description": "国内支付接入：微信支付、支付宝、签名、回调、退款。"
+    },
+    {
+      "name": "antd-chinese",
+      "path": "antd-chinese/SKILL.md",
+      "description": "Ant Design 中文后台最佳实践：组件选择、表单、国际化。"
+    },
+    {
+      "name": "nextjs-china",
+      "path": "nextjs-china/SKILL.md",
+      "description": "Next.js 中国部署规范：云厂商、CDN、备案与性能。"
+    },
+    {
+      "name": "prompt-zh",
+      "path": "prompt-zh/SKILL.md",
+      "description": "中文提示词工程规范：口语化、避免 AI 腔、结构化输出。"
+    },
+    {
+      "name": "git-commit-zh",
+      "path": "git-commit-zh/SKILL.md",
+      "description": "中文 Git commit 规范：约定式提交中文版。"
+    }
+  ]
+}
