@@ -2,7 +2,7 @@
 
 Make AI coding agents understand real Chinese developer workflows.
 
-![Stars](https://img.shields.io/github/stars/your-username/ai-skills-zh?style=social)
+![Stars](https://img.shields.io/github/stars/EA-Studio-SHARK/ai-skills-zh?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
@@ -13,16 +13,15 @@ Make AI coding agents understand real Chinese developer workflows.
 Install all skills:
 
 ```bash
-npx skills add your-username/ai-skills-zh
+npx skills add EA-Studio-SHARK/ai-skills-zh
 ```
 
 Install one skill:
 
 ```bash
-npx skills add your-username/ai-skills-zh/bilibili-content
+npx skills add EA-Studio-SHARK/ai-skills-zh/bilibili-content
 ```
 
-Replace `your-username` with your GitHub username or organization after publishing the repository.
 
 ## Skills
 
@@ -65,7 +64,7 @@ PRs are welcome. Each skill should include a practical `SKILL.md`, examples, and
 
 ## Author
 
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
 - Bilibili: [Your Bilibili Space](https://space.bilibili.com/)
 
 ## License

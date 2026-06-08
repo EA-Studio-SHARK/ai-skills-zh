@@ -1,30 +1,48 @@
-# AI Skills 中文包 | Chinese AI Agent Skills
+<div align="center">
 
-让 AI 编程工具真正懂中国开发场景。
+<img src="./assets/banner.svg" alt="AI Skills 中文包" width="100%"/>
 
-![Stars](https://img.shields.io/github/stars/your-username/ai-skills-zh?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+<h1>AI Skills 中文包 · Chinese AI Agent Skills</h1>
+
+<p><b>让 Claude Code · Codex · Cursor 真正懂中国开发场景</b></p>
+
+<p>
+<a href="https://github.com/EA-Studio-SHARK/ai-skills-zh/stargazers"><img src="https://img.shields.io/github/stars/EA-Studio-SHARK/ai-skills-zh?style=for-the-badge&logo=github&color=7C9CFF&labelColor=0B1020" alt="Stars"/></a>
+<img src="https://img.shields.io/badge/skills-8-6EE7F9?style=for-the-badge&labelColor=0B1020" alt="Skills"/>
+<img src="https://img.shields.io/badge/license-MIT-C084FC?style=for-the-badge&labelColor=0B1020" alt="License"/>
+<img src="https://img.shields.io/badge/PRs-welcome-28C840?style=for-the-badge&labelColor=0B1020" alt="PRs Welcome"/>
+</p>
+
+<p>
+<a href="#安装"><b>快速开始</b></a> ·
+<a href="#skill-列表"><b>Skill 列表</b></a> ·
+<a href="#使用方法"><b>使用方法</b></a> ·
+<a href="./README_EN.md"><b>English</b></a>
+</p>
+
+</div>
+
+---
 
 `ai-skills-zh` 是面向 Claude Code、Codex、Cursor、Gemini CLI 等 AI 编程工具的中文 Skills 包。它把中国开发者常见的业务场景、技术栈、内容平台规范和本地化表达沉淀成可复用规则，让 AI 生成更像真实团队会交付的代码、文案和方案。
 
-English documentation: [README_EN.md](./README_EN.md)
+> 没有 ai-skills 之前，AI 写小程序照搬 Web React 生命周期、把支付状态交给客户端判断、提示词一股 AI 腔。
+> 装上之后，AI 按中国真实团队的规范交付。
 
 ## 安装
 
 安装全部 skills：
 
 ```bash
-npx skills add your-username/ai-skills-zh
+npx skills add EA-Studio-SHARK/ai-skills-zh
 ```
 
 安装单个 skill：
 
 ```bash
-npx skills add your-username/ai-skills-zh/bilibili-content
+npx skills add EA-Studio-SHARK/ai-skills-zh/bilibili-content
 ```
 
-> 发布到 GitHub 后，请把 `your-username` 替换为你的 GitHub 用户名或组织名。
 
 ## Skill 列表
 
@@ -79,7 +97,7 @@ npx skills add your-username/ai-skills-zh/bilibili-content
 
 ## 作者与交流
 
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
 - B站: [你的B站主页](https://space.bilibili.com/)
 
 如果这个项目对你有帮助，欢迎 Star、Fork，也欢迎在 B站或 GitHub 反馈你希望 AI 更懂的中文开发场景。
