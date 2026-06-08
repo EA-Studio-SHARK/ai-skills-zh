@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="AI Skills 中文包" width="100%"/>
+<img src="./assets/hero.svg" alt="AI Skills 中文包" width="100%"/>
 
 <h1>AI Skills 中文包 · Chinese AI Agent Skills</h1>
 
