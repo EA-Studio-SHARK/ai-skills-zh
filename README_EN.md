@@ -65,7 +65,8 @@ PRs are welcome. Each skill should include a practical `SKILL.md`, examples, and
 ## Author
 
 - GitHub: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
-- Bilibili: [Your Bilibili Space](https://space.bilibili.com/)
+- Bilibili: [EA同学](https://b23.tv/T0t6eVp)
+- Website: [exploreall.shichangding.cn](https://exploreall.shichangding.cn/)
 
 ## License
 

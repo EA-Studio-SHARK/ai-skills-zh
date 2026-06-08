@@ -97,10 +97,12 @@ npx skills add EA-Studio-SHARK/ai-skills-zh/bilibili-content
 
 ## 作者与交流
 
-- GitHub: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
-- B站: [你的B站主页](https://space.bilibili.com/)
+- GitHub：[EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
+- B站：[EA同学](https://b23.tv/T0t6eVp)
+- 交流 QQ 群：**805218411**
+- 网站：[exploreall.shichangding.cn](https://exploreall.shichangding.cn/)
 
-如果这个项目对你有帮助，欢迎 Star、Fork，也欢迎在 B站或 GitHub 反馈你希望 AI 更懂的中文开发场景。
+如果这个项目对你有帮助，欢迎 Star、Fork，也欢迎进群交流、反馈你希望 AI 更懂的中文开发场景。
 
 ## License
 
