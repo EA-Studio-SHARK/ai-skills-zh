@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Chinese AI Agent Skills for China-specific development, content, payment, deployment, and writing workflows.",
   "license": "MIT",
-  "repository": "https://github.com/your-username/ai-skills-zh",
+  "repository": "https://github.com/EA-Studio-SHARK/ai-skills-zh",
   "skills": [
     {
       "name": "weixin-miniprogram",

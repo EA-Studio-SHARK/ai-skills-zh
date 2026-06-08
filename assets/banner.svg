@@ -17,14 +17,17 @@
   </defs>
 
   <rect width="1280" height="400" fill="url(#bg)"/>
-  <ellipse cx="980" cy="120" rx="420" ry="280" fill="url(#glow)"/>
-  <ellipse cx="240" cy="360" rx="360" ry="240" fill="url(#glow)" opacity="0.6"/>
+  <ellipse cx="1040" cy="120" rx="420" ry="300" fill="url(#glow)"/>
+  <ellipse cx="200" cy="380" rx="360" ry="240" fill="url(#glow)" opacity="0.5"/>
 
   <!-- grid texture -->
-  <g stroke="#1E2A4A" stroke-width="1" opacity="0.5">
+  <g stroke="#1E2A4A" stroke-width="1" opacity="0.45">
     <path d="M0 80 H1280 M0 160 H1280 M0 240 H1280 M0 320 H1280"/>
     <path d="M160 0 V400 M320 0 V400 M480 0 V400 M640 0 V400 M800 0 V400 M960 0 V400 M1120 0 V400"/>
   </g>
+
+  <!-- title -->
+  <text x="96" y="118" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-1">AI Skills 中文包</text>
 
   <!-- terminal prompt chip -->
   <g transform="translate(96,150)">
@@ -35,8 +38,6 @@
     <text x="100" y="35" font-size="22" fill="#9FB4E6" font-family="'SF Mono','JetBrains Mono',monospace">npx skills add ai-skills-zh</text>
   </g>
 
-  <!-- title -->
-  <text x="96" y="116" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-1">AI Skills 中文包</text>
   <text x="100" y="262" font-size="26" fill="#C7D2FE" font-weight="500">让 Claude Code · Codex · Cursor 真正懂中国开发场景</text>
   <rect x="96" y="284" width="120" height="4" rx="2" fill="url(#accent)"/>
 
@@ -64,9 +65,28 @@
     </g>
   </g>
 
-  <!-- logo mark -->
-  <g transform="translate(1060,150)">
-    <rect x="0" y="0" width="120" height="120" rx="28" fill="url(#accent)" opacity="0.15"/>
-    <text x="60" y="82" text-anchor="middle" font-size="64" font-weight="800" fill="url(#accent)">智</text>
+  <!-- decorative skill cards stack (right side) -->
+  <g transform="translate(940,108)" opacity="0.95">
+    <g transform="translate(40,16) rotate(4)">
+      <rect width="240" height="62" rx="14" fill="#0E1730" stroke="#27345C"/>
+      <rect x="18" y="19" width="24" height="24" rx="6" fill="#1B2950"/>
+      <path d="M24 31 l5 5 l9 -11" stroke="#6EE7F9" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="56" y="22" width="150" height="8" rx="4" fill="#34467A"/>
+      <rect x="56" y="38" width="96" height="7" rx="3.5" fill="#23335E"/>
+    </g>
+    <g transform="translate(20,92) rotate(-3)">
+      <rect width="240" height="62" rx="14" fill="#0E1730" stroke="#2D3C68"/>
+      <rect x="18" y="19" width="24" height="24" rx="6" fill="#23184A"/>
+      <path d="M24 31 l5 5 l9 -11" stroke="#C084FC" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="56" y="22" width="130" height="8" rx="4" fill="#34467A"/>
+      <rect x="56" y="38" width="110" height="7" rx="3.5" fill="#23335E"/>
+    </g>
+    <g transform="translate(40,170) rotate(2)">
+      <rect width="240" height="62" rx="14" fill="#0E1730" stroke="#27345C"/>
+      <rect x="18" y="19" width="24" height="24" rx="6" fill="#102A2E"/>
+      <path d="M24 31 l5 5 l9 -11" stroke="#7C9CFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="56" y="22" width="150" height="8" rx="4" fill="#34467A"/>
+      <rect x="56" y="38" width="84" height="7" rx="3.5" fill="#23335E"/>
+    </g>
   </g>
 </svg>
